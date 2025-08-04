@@ -50,3 +50,5 @@ notes.push(newNote)
 
 res.status(201).json(notes)
 })
+
+app
